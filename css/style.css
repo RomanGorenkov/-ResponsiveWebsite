@@ -192,6 +192,11 @@ footer nav a:hover{
     border-radius: 3px;
     padding: 0 .5rem;
 }
+#map{
+    width: 100%;
+    height: 400px;
+    background-color: grey;
+}
 @media screen and (max-width: 768px){
     .topnav a:not(:first-child){
         display: none;
